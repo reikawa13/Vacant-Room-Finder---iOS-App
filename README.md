@@ -26,6 +26,6 @@
 * Users can update the status of the rooms they start using 
 
 **Optional Nice-To-Have Specs**
-*Users can connect their location to the map to more easily find vacant rooms nearby
-*Users can receive recommendations on vacant rooms nearby
-*Users can update the status of the room easily by scanning a QR code
+* Users can connect their location to the map to more easily find vacant rooms nearby
+* Users can receive recommendations on vacant rooms nearby
+* Users can update the status of the room easily by scanning a QR code
