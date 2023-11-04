@@ -20,7 +20,7 @@
 ## 1. User Stories (Required and Optional)
 
 **Required Must-Have Specs**
-*Users can create a new account
+*Users can create a new account  \n
 *Users can log in
 *Users can browse vacant rooms on the map
 *Users can update the status of the rooms they start using 
