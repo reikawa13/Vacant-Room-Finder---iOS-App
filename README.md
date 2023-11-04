@@ -38,13 +38,17 @@
 
 **Login Screen**
 * Users can log in
+
 **Registration Screen**
 * Users can create a new account
+
 **Stream (Search on Map)**
 * Users can browse vacant/taken rooms on the map
 * User can choose to switch to searching by building name
+
 **Search by Name Screen**
 * Users can type in the name of the buildings they want to find vacant rooms in
+
 **Room Occupancy Uopdate Screen**
 * User can update the status of the room 
 
