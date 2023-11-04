@@ -52,4 +52,15 @@
 **Room Occupancy Uopdate Screen**
 * User can update the status of the room 
 
+### 3. Navigation 
+
+**Tap Navigation**
+* Map Browser screen
+* Search by Name screnn
+* Room Registration screen
+
+**Flow Navigation**
+* Login screen -> Home
+* Account Creation screen -> login screen
+
 
