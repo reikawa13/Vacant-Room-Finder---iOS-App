@@ -23,12 +23,12 @@
 * Users can create a new account
 * Users can log in
 * Users can choose whether to search by building name or by using their locations to find nearby vacant rooms
-* Users can browse real-time vacant/taken rooms on map
-* Users can update the status of the rooms when they start using 
-
-**Optional Nice-To-Have Specs**
 * Users can connect their location to the map to more easily find vacant rooms nearby
 * Users can receive recommendations on vacant rooms nearby
+* Users can update the status of the rooms (vacant/taken)
+
+**Optional Nice-To-Have Specs**
+* Users can browse real-time vacant/taken rooms on map
 * Users can update the status of the room easily by scanning a QR code
 * Users can rate and leave comments on the rooms
 * Users can check the future reservation status of the rooms.
@@ -43,11 +43,18 @@
 * Users can create a new account
 
 **Stream (Search on Map)**
-* Users can browse vacant/taken rooms on the map
-* User can choose to switch to searching by building name
+* Users can browse nearby buildings
+* (Optional) Users can browse vacant/taken rooms on the map
 
-**Search by Name Screen**
-* Users can type in the name of the buildings they want to find vacant rooms in
+**Search Building by Name Screen**
+* Users can browse a list of buildings.
+* By tapping on the 
+* Users can tell if there are vacant rooms in the buildings or not. 
+* (Optional) Users can type in the name of the buildings they want to find vacant rooms in
+* (Optional) Calcualte the distance between the rooms and the user's location and sort the list
+
+**Search Rooms by Name Screen**
+* Users can see the status of the rooms in the chosen building
 
 **Room Occupancy Update Screen**
 * User can update the status of the room 
