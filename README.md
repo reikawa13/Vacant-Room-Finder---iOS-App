@@ -49,7 +49,7 @@
 **Search by Name Screen**
 * Users can type in the name of the buildings they want to find vacant rooms in
 
-**Room Occupancy Uopdate Screen**
+**Room Occupancy Update Screen**
 * User can update the status of the room 
 
 ### 3. Navigation 
