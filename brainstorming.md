@@ -1,4 +1,4 @@
-Empty Classrooms on Campus | Under Evaluation | PICKED!!
+Idea1: Empty Classrooms on Campus | Under Evaluation | PICKED!!
 ・Users/Students can find vacant classrooms on map
 ・It differs from the official reservations made available by the College.
 // Mobility・・・O
@@ -8,7 +8,7 @@ Empty Classrooms on Campus | Under Evaluation | PICKED!!
 // Scope・・・Probably not technically too difficult?
 
 
-Campus Free Food Finder | Under Evaluation
+Idea2: Campus Free Food Finder | Under Evaluation
 ・Users can view the locations of free food on campus
 ・Users (event organizers) can upload information about free food. 
 // Mobility ・・・O
@@ -16,7 +16,7 @@ Campus Free Food Finder | Under Evaluation
 // Market・・・Students
 // Habit・・・Rarely when there is free food on campus
 
-Little Findings on Campus | Under Evaluation
+Idea3: Little Findings on Campus | Under Evaluation
 ・Users can share their findings on campus randomly on the app.
 ・Users can browse the list of other users' posts
 ・Their posts need to include photos and locations
@@ -28,13 +28,13 @@ Little Findings on Campus | Under Evaluation
 
 Other Ideas:
 
-Homework Collaboration Tool
+Idea4: Homework Collaboration Tool
 ・Users can chat about their class/assignments with classmates
 
-Tourist Destinations Finder
+Idea5: Tourist Destinations Finder
 ・Users can find popular sightseeing spots near them
 ・Connected Map directs users to descriptions of the spots
 
-Study Break Calculator
+Idea6: Study Break Calculator
 ・Users tap on the app/phone to record the start/end of their study break. 
 ・Automatically add the study break to Google Calendar
