@@ -69,8 +69,8 @@
 **Flow Navigation**
 * Login screen -> Home
 * Account Creation screen -> login screen
-![](https://ibb.co/WnQtJf1)
-<img src="https://ibb.co/WnQtJf1" width=600>
+![]([https://ibb.co/WnQtJf1)
+<img src="https://ibb.co/WnQtJf1" width=600>](https://ibb.co/WnQtJf1)
 
 ### 4. Sprint Planning
 **Step 1 Main Features**
