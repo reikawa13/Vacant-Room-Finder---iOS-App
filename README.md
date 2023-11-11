@@ -70,4 +70,29 @@
 * Login screen -> Home
 * Account Creation screen -> login screen
 
+### 4. Sprint Planning
+**Step 1 Main Features**
+* Map and location
+* Display List of buildings and rooms -> integrate with location
+* Updating status of rooms
+* Account creation and log in
 
+**Step 2 Rough Plan**
+Sprint 1: 
+* Display List of buildings and rooms
+* Updating status of rooms
+
+Sprint 2:
+* Map and location
+* Account creation and log in
+
+**Step 3 SMART Plan**
+Sprint 1
+* Create necessary storyboards (~15 mins)
+* Create table view of buildings and rooms
+* Add basic icons for the
+* Allow users to change the status of the rooms
+
+Sprint 2
+* Creat the map viewcontroller using Map API and location
+* Create login viewcontroller and save histories into local data
