@@ -70,6 +70,8 @@
 * Login screen -> Home
 * Account Creation screen -> login screen
 
+<img src="https://ibb.co/WnQtJf1" width=600>
+
 ### 4. Sprint Planning
 **Step 1 Main Features**
 * Map and location
