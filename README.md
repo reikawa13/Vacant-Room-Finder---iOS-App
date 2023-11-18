@@ -100,3 +100,12 @@ Sprint 1
 Sprint 2
 * Creat the map viewcontroller using Map API and location
 * Create login viewcontroller and save histories into local data
+
+### 5. Prpgress
+**Sprint 1**
+* Created Map
+* The product can now display the list of (table views of) the buildings and the rooms
+* Users can update the status of the room by selecting the botton
+
+Updated Video
+[https://youtube.com/shorts/bvcokCOHc-A]
