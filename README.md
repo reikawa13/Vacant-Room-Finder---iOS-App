@@ -109,3 +109,8 @@ Sprint 2
 
 Updated Video
 [https://youtube.com/shorts/bvcokCOHc-A]
+
+**Sprint 2**
+* Tried to work on the location -> mistakenly deleted some properties and couldn't recover them.
+
+[https://youtu.be/vrcxvQ_Y2b0]
