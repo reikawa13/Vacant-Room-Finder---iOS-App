@@ -112,5 +112,8 @@ Updated Video
 
 **Sprint 2**
 * Tried to work on the location -> mistakenly deleted some properties and couldn't recover them.
+[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNlbHN0emxtY2NweDBzYXZmM2w5YWNwczRuM3oxenJiY3FwcmY2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvTPVqNQZ5C2Yd0NhK/giphy.gif]
+
+
 
 [https://youtu.be/vrcxvQ_Y2b0]
