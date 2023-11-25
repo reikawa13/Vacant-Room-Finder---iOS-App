@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5D3BFFB12B086151005BA451 /* RoomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3BFFB02B086151005BA451 /* RoomCell.swift */; };
+		5D3BFFB32B102755005BA451 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5D3BFFB22B102755005BA451 /* Info.plist */; };
 		5D5DA5ED2B00260200DD6A20 /* BuildingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5DA5EC2B00260200DD6A20 /* BuildingCell.swift */; };
 		5D5DA5EF2B08111900DD6A20 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5DA5EE2B08111900DD6A20 /* MapViewController.swift */; };
 		5D5DA5F12B08231200DD6A20 /* RoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5DA5F02B08231200DD6A20 /* RoomViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		5D3BFFB02B086151005BA451 /* RoomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomCell.swift; sourceTree = "<group>"; };
+		5D3BFFB22B102755005BA451 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D5DA5EC2B00260200DD6A20 /* BuildingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingCell.swift; sourceTree = "<group>"; };
 		5D5DA5EE2B08111900DD6A20 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		5D5DA5F02B08231200DD6A20 /* RoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomViewController.swift; sourceTree = "<group>"; };
@@ -31,7 +33,6 @@
 		5DF373762AFF2917008F56F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5DF373782AFF2918008F56F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DF3737B2AFF2918008F56F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5DF3737D2AFF2918008F56F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +75,7 @@
 				5D3BFFB02B086151005BA451 /* RoomCell.swift */,
 				5DF373782AFF2918008F56F6 /* Assets.xcassets */,
 				5DF3737A2AFF2918008F56F6 /* LaunchScreen.storyboard */,
-				5DF3737D2AFF2918008F56F6 /* Info.plist */,
+				5D3BFFB22B102755005BA451 /* Info.plist */,
 			);
 			path = "CodePath iOS 101 Final Project";
 			sourceTree = "<group>";
@@ -137,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D3BFFB32B102755005BA451 /* Info.plist in Resources */,
 				5DF3737C2AFF2918008F56F6 /* LaunchScreen.storyboard in Resources */,
 				5DF373792AFF2918008F56F6 /* Assets.xcassets in Resources */,
 				5DF373772AFF2917008F56F6 /* Main.storyboard in Resources */,
