@@ -1,4 +1,4 @@
-# CodePath iOS 101 Final Project "Vacant Room Finder"
+# CodePath iOS Development Final Project "Vacant Room Finder"
 
 ## Table of Contents
 
